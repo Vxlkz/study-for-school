@@ -1,0 +1,133 @@
+{
+  "/": [
+    {
+      "type": "script",
+      "href": "/velocity/assets/index.bc49e50c.js"
+    },
+    {
+      "type": "script",
+      "href": "/velocity/assets/index.23d2c538.js"
+    },
+    {
+      "type": "style",
+      "href": "/velocity/assets/index.37d4b482.css"
+    },
+    {
+      "type": "script",
+      "href": "/velocity/assets/Favicon.dad3db96.js"
+    },
+    {
+      "type": "script",
+      "href": "/velocity/assets/BareClient.06787bc0.js"
+    },
+    {
+      "type": "script",
+      "href": "/velocity/assets/index.5c288931.js"
+    },
+    {
+      "type": "script",
+      "href": "/velocity/assets/url.8f0b591e.js"
+    }
+  ],
+  "/internal/bookmarks": [
+    {
+      "type": "script",
+      "href": "/velocity/assets/bookmarks.62a2af36.js"
+    },
+    {
+      "type": "script",
+      "href": "/velocity/assets/index.23d2c538.js"
+    },
+    {
+      "type": "style",
+      "href": "/velocity/assets/index.37d4b482.css"
+    }
+  ],
+  "/internal/history": [
+    {
+      "type": "script",
+      "href": "/velocity/assets/history.d36679d9.js"
+    },
+    {
+      "type": "script",
+      "href": "/velocity/assets/index.23d2c538.js"
+    },
+    {
+      "type": "style",
+      "href": "/velocity/assets/index.37d4b482.css"
+    },
+    {
+      "type": "script",
+      "href": "/velocity/assets/Favicon.dad3db96.js"
+    },
+    {
+      "type": "script",
+      "href": "/velocity/assets/BareClient.06787bc0.js"
+    }
+  ],
+  "/internal/newTab": [
+    {
+      "type": "script",
+      "href": "/velocity/assets/newTab.cd00467e.js"
+    },
+    {
+      "type": "script",
+      "href": "/velocity/assets/index.23d2c538.js"
+    },
+    {
+      "type": "style",
+      "href": "/velocity/assets/index.37d4b482.css"
+    },
+    {
+      "type": "script",
+      "href": "/velocity/assets/url.8f0b591e.js"
+    }
+  ],
+  "/internal/preferences": [
+    {
+      "type": "script",
+      "href": "/velocity/assets/preferences.c913d9e3.js"
+    },
+    {
+      "type": "script",
+      "href": "/velocity/assets/index.23d2c538.js"
+    },
+    {
+      "type": "style",
+      "href": "/velocity/assets/index.37d4b482.css"
+    }
+  ],
+  "/internal/view-source": [
+    {
+      "type": "script",
+      "href": "/velocity/assets/view-source.9c04bceb.js"
+    },
+    {
+      "type": "script",
+      "href": "/velocity/assets/index.23d2c538.js"
+    },
+    {
+      "type": "style",
+      "href": "/velocity/assets/index.37d4b482.css"
+    },
+    {
+      "type": "script",
+      "href": "/velocity/assets/BareClient.06787bc0.js"
+    },
+    {
+      "type": "style",
+      "href": "/velocity/assets/view-source.5c045b07.css"
+    }
+  ],
+  "entry-client": [],
+  "index.html": [
+    {
+      "type": "script",
+      "href": "/velocity/assets/index.23d2c538.js"
+    },
+    {
+      "type": "style",
+      "href": "/velocity/assets/index.37d4b482.css"
+    }
+  ]
+}
